@@ -1,0 +1,10 @@
+Python is a programming language.
+It is easy to read and write.
+Python uses simple and clear syntax.
+It is an interpreted language, meaning code is executed by the Python interpreter.
+Python supports Object-Oriented Programming (OOP).
+Python is dynamically typed, so you don't need to declare the variable type explicitly.
+Python has many built-in libraries and modules.
+It is widely used in Artificial Intelligence and Machine Learning.
+It is also used for web development, data analysis, automation, and scripting.
+Python programs are usually saved with the .py extension.
